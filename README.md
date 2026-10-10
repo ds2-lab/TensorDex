@@ -21,7 +21,9 @@ Tensor-centric storage for AI model hubs
 
 ---
 
-*Latest News* 🔥 — TensorDex is open source: cut your model-hub storage by **~70%**, losslessly — tensor-level dedup + delta compression for the fine-tunes and checkpoints that bloat every hub.
+*Latest News* 🔥 — [TensorDex](https://dl.acm.org/doi/10.1145/3830418.3843872) received the **Distinguished Artifact Award** from [SOSP 2026](https://sigops.org/s/conferences/sosp/2026/index.html)!  
+
+TensorDex is open source: cut your model-hub storage by **~70%**, losslessly — tensor-level dedup + delta compression for the fine-tunes and checkpoints that bloat every hub.
 
 ---
 
@@ -132,3 +134,32 @@ Python orchestrates I/O and exposes the API/CLI; a Rust extension (`tensordex._o
 ## License
 
 [Apache License 2.0](LICENSE).
+
+## To Cite TensorDex
+
+If you use TensorDex in your research, please cite:
+
+```bibtex
+@inproceedings{tensordex_sosp26,
+author = {Lan, Tingfeng and Wang, Zirui and Zheng, Yunjia and Su, Zhaoyuan and Yang, Juncheng and Cheng, Yue},
+title = {TensorDex: A Compact, Tensor-Centric Storage System for Modern AI Models},
+year = {2026},
+isbn = {9798400725852},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3830418.3843872},
+doi = {10.1145/3830418.3843872},
+booktitle = {Proceedings of the ACM SIGOPS 32nd Symposium on Operating Systems Principles},
+pages = {379–394},
+numpages = {16},
+keywords = {model storage, tensor-centric storage, delta compression, large language models, model hubs},
+location = {Prague, Czech Republic},
+series = {SOSP '26}
+}
+```
+
+## Contributing
+
+We welcome contributions to **TensorDex**!  
+If you have ideas, improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
+
