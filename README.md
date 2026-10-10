@@ -10,7 +10,7 @@ Tensor-centric storage for AI model hubs
 </h3>
 
 <p align="center">
-| <a href="#artifact-evaluation-sosp-26"><b>Artifact Evaluation</b></a> | <a href="https://tingfenglan.com/tensordex/"><b>Landing Page</b></a> | <a href="#quickstart"><b>Quickstart</b></a> | <a href="#architecture"><b>Architecture</b></a> |
+| <a href="#artifact-evaluation-sosp-26"><b>Artifact Evaluation</b></a> | <a href="https://tingfenglan.com/tensordex/"><b>Landing Page</b></a> | <a href="#quickstart"><b>Quickstart</b></a> | <a href="#architecture"><b>Architecture</b></a> | <a href="#To cite TensoDex"><b>TensorDex Paper</b></a> | <a href="#Contributing"><b>Contributing</b></a> |
 </p>
 
 <p align="center">
