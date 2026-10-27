@@ -163,3 +163,9 @@ series = {SOSP '26}
 We welcome contributions to **TensorDex**!  
 If you have ideas, improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
 
+
+## Acknowledgment
+
+This work is supported in part by the National Science Foundation under Awards [#2411009](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2411009), [#2322860](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2322860), and [#2403313](https://www.nsf.gov/awardsearch/show-award?AWD_ID=2403313).
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the National Science Foundation.
